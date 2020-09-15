@@ -205,14 +205,20 @@ b {
 .primary-orange {
     background-color: #FFA001;
 }
-.primary-yellow {
+.colors-container .primary-yellow {
     background-color: #F5D327;
+    width: 20vw;
+    height: 20vw;
 }
-.primary-light {
+.colors-container .primary-light {
     background-color: #FFECB3;
+    width: 20vw;
+    height: 20vw;
 }
-.accent-teal {
+.colors-container .accent-teal {
     background-color: #01BCD4;
+    width: 20vw;
+    height: 20vw;
 }
 .primary-text {
     background-color: #212121;
