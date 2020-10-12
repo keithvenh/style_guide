@@ -30,7 +30,7 @@ b {
     display: flex;
     height: 60px;
     width: 100vw;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     position: fixed;
 }
@@ -99,6 +99,9 @@ b {
     font-size: 2em;
     letter-spacing: 2px;
     text-align: center;
+}
+.subsection {
+    padding-left: 16px;
 }
 
 /* ===== OUR STORY ===== */
